@@ -1,0 +1,1 @@
+hi.style.color = "red"
